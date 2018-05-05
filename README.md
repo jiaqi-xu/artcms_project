@@ -32,3 +32,4 @@ Jinja2模版语法
 * jinja2模板语法
 * 使用sqlalchemy操作mysql
 * 使用wtforms定义表单
+* Mysql
